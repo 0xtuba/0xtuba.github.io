@@ -1,6 +1,6 @@
 ---
 title: "Understanding Fine Tuning"
-date: 2024-07-27T12:00:00+00:00
+date: 2024-07-26T12:00:00+00:00
 draft: false
 ---
 
