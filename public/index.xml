@@ -6,14 +6,7 @@
     <description>Recent content on tuba</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Jul 2023 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Fine Tuning</title>
-      <link>http://localhost:1313/posts/test/</link>
-      <pubDate>Thu, 27 Jul 2023 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/test/</guid>
-      <description>What is fine tuning, and how does it work?</description>
-    </item>
   </channel>
 </rss>
