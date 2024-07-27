@@ -67,4 +67,3 @@ name: Deploy Hugo site to Pages
          - name: Deploy to GitHub Pages
            id: deployment
            uses: actions/deploy-pages@v4
-   
